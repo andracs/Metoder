@@ -45,5 +45,8 @@ public class Metoder {
     public static void hejAndy() {
         System.out.println("Hej András");
     }
+    public void kasperP(String Navn){
+        System.out.println("Mit navn er " + Navn);
+    }
     
 }
